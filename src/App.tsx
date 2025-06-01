@@ -1,26 +1,28 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import Typography from '@mui/material/Typography';
+import Container from '@mui/material/Container';
+import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
+import DataForm from './components/DataForm';
+import DataTable from './components/DataTable';
 
-function App() {
+const queryClient = new QueryClient();
+
+const App: React.FC = () => {
+  const handleAdd = (item: any) => {
+    window.location.reload(); 
+  };
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <QueryClientProvider client={queryClient}>
+      <Container maxWidth="lg" style={{ marginTop: '2rem' }}>
+        <Typography variant="h4" gutterBottom>
+          Таблица данных
+        </Typography>
+        <DataForm onAdd={handleAdd} />
+        <DataTable />
+      </Container>
+    </QueryClientProvider>
   );
-}
+};
 
 export default App;

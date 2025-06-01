@@ -1,0 +1,388 @@
+{
+  "records": [
+    {
+      "id": "1",
+      "name": "Алиса Смирнова",
+      "age": 28,
+      "email": "alisa.smirnova@example.com",
+      "city": "Москва",
+      "profession": "Дизайнер"
+    },
+    {
+      "id": "2",
+      "name": "Борис Иванов",
+      "age": 35,
+      "email": "boris.ivanov@example.com",
+      "city": "Санкт-Петербург",
+      "profession": "Инженер"
+    },
+    {
+      "id": "3",
+      "name": "Клара Давыдова",
+      "age": 22,
+      "email": "klara.davydova@example.com",
+      "city": "Казань",
+      "profession": "Писатель"
+    },
+    {
+      "id": "4",
+      "name": "Даниил Власов",
+      "age": 40,
+      "email": "daniil.vlasov@example.com",
+      "city": "Новосибирск",
+      "profession": "Менеджер"
+    },
+    {
+      "id": "5",
+      "name": "Екатерина Бондарь",
+      "age": 31,
+      "email": "ekaterina.bondar@example.com",
+      "city": "Екатеринбург",
+      "profession": "Разработчик"
+    },
+    {
+      "id": "6",
+      "name": "Фёдор Мельников",
+      "age": 27,
+      "email": "fedor.melnikov@example.com",
+      "city": "Самара",
+      "profession": "Аналитик"
+    },
+    {
+      "id": "7",
+      "name": "Галина Ли",
+      "age": 29,
+      "email": "galina.li@example.com",
+      "city": "Владивосток",
+      "profession": "Учитель"
+    },
+    {
+      "id": "8",
+      "name": "Геннадий Кузнецов",
+      "age": 34,
+      "email": "gennady.kuznetsov@example.com",
+      "city": "Ростов-на-Дону",
+      "profession": "Учёный"
+    },
+    {
+      "id": "9",
+      "name": "Ирина Лебедева",
+      "age": 25,
+      "email": "irina.lebedeva@example.com",
+      "city": "Красноярск",
+      "profession": "Фотограф"
+    },
+    {
+      "id": "10",
+      "name": "Яков Волков",
+      "age": 32,
+      "email": "yakov.volkov@example.com",
+      "city": "Омск",
+      "profession": "Архитектор"
+    },
+    {
+      "id": "11",
+      "name": "Карина Жукова",
+      "age": 30,
+      "email": "karina.zhukova@example.com",
+      "city": "Пермь",
+      "profession": "Медсестра"
+    },
+    {
+      "id": "12",
+      "name": "Лев Орлов",
+      "age": 26,
+      "email": "lev.orlov@example.com",
+      "city": "Уфа",
+      "profession": "Техник"
+    },
+    {
+      "id": "13",
+      "name": "Мария Новикова",
+      "age": 24,
+      "email": "maria.novikova@example.com",
+      "city": "Тюмень",
+      "profession": "Юрист"
+    },
+    {
+      "id": "14",
+      "name": "Никита Королёв",
+      "age": 37,
+      "email": "nikita.korolev@example.com",
+      "city": "Ижевск",
+      "profession": "Повар"
+    },
+    {
+      "id": "15",
+      "name": "Ольга Фомина",
+      "age": 29,
+      "email": "olga.fomina@example.com",
+      "city": "Саратов",
+      "profession": "Консультант"
+    },
+    {
+      "id": "16",
+      "name": "Павел Соколов",
+      "age": 33,
+      "email": "pavel.sokolov@example.com",
+      "city": "Томск",
+      "profession": "Пилот"
+    },
+    {
+      "id": "17",
+      "name": "Квентин Адамов",
+      "age": 38,
+      "email": "quentin.adamov@example.com",
+      "city": "Челябинск",
+      "profession": "Тренер"
+    },
+    {
+      "id": "18",
+      "name": "Раиса Баранова",
+      "age": 36,
+      "email": "raisa.baranova@example.com",
+      "city": "Ярославль",
+      "profession": "Психолог"
+    },
+    {
+      "id": "19",
+      "name": "Степан Харитонов",
+      "age": 27,
+      "email": "stepan.kharitonov@example.com",
+      "city": "Волгоград",
+      "profession": "Механик"
+    },
+    {
+      "id": "20",
+      "name": "Татьяна Евсеева",
+      "age": 31,
+      "email": "tatyana.evseeva@example.com",
+      "city": "Калининград",
+      "profession": "Бухгалтер"
+    },
+    {
+      "id": "21",
+      "name": "Ульяна Михайлова",
+      "age": 23,
+      "email": "ulyana.mikhailova@example.com",
+      "city": "Тверь",
+      "profession": "Журналист"
+    },
+    {
+      "id": "22",
+      "name": "Филипп Никитин",
+      "age": 39,
+      "email": "filipp.nikitin@example.com",
+      "city": "Барнаул",
+      "profession": "Логист"
+    },
+    {
+      "id": "23",
+      "name": "Христина Савельева",
+      "age": 28,
+      "email": "hristina.savelyeva@example.com",
+      "city": "Курск",
+      "profession": "Редактор"
+    },
+    {
+      "id": "24",
+      "name": "Эдуард Гаврилов",
+      "age": 42,
+      "email": "eduard.gavrilov@example.com",
+      "city": "Брянск",
+      "profession": "Маркетолог"
+    },
+    {
+      "id": "25",
+      "name": "Юлия Панина",
+      "age": 26,
+      "email": "yulia.panina@example.com",
+      "city": "Архангельск",
+      "profession": "Врач"
+    },
+    {
+      "id": "26",
+      "name": "Яна Климова",
+      "age": 27,
+      "email": "yana.klimova@example.com",
+      "city": "Чита",
+      "profession": "Модельер"
+    },
+    {
+      "id": "27",
+      "name": "Захар Егоров",
+      "age": 31,
+      "email": "zahar.egorov@example.com",
+      "city": "Махачкала",
+      "profession": "Программист"
+    },
+    {
+      "id": "28",
+      "name": "Алина Петрова",
+      "age": 29,
+      "email": "alina.petrova@example.com",
+      "city": "Пенза",
+      "profession": "Стилист"
+    },
+    {
+      "id": "29",
+      "name": "Богдан Чернов",
+      "age": 34,
+      "email": "bogdan.chernov@example.com",
+      "city": "Смоленск",
+      "profession": "Экономист"
+    },
+    {
+      "id": "30",
+      "name": "Вера Юдина",
+      "age": 30,
+      "email": "vera.yudina@example.com",
+      "city": "Якутск",
+      "profession": "Артистка"
+    },
+    {
+      "id": "31",
+      "name": "Глеб Тимофеев",
+      "age": 36,
+      "email": "gleb.timofeev@example.com",
+      "city": "Хабаровск",
+      "profession": "Системный администратор"
+    },
+    {
+      "id": "32",
+      "name": "Дарья Виноградова",
+      "age": 24,
+      "email": "darya.vinogradova@example.com",
+      "city": "Сочи",
+      "profession": "Косметолог"
+    },
+    {
+      "id": "33",
+      "name": "Евгений Комаров",
+      "age": 35,
+      "email": "evgeny.komarov@example.com",
+      "city": "Нижний Новгород",
+      "profession": "Архивариус"
+    },
+    {
+      "id": "34",
+      "name": "Жанна Ковалева",
+      "age": 33,
+      "email": "zhanna.kovaleva@example.com",
+      "city": "Ставрополь",
+      "profession": "Фармацевт"
+    },
+    {
+      "id": "35",
+      "name": "Игорь Громов",
+      "age": 29,
+      "email": "igor.gromov@example.com",
+      "city": "Кострома",
+      "profession": "Ветеринар"
+    },
+    {
+      "id": "36",
+      "name": "Ксения Морозова",
+      "age": 22,
+      "email": "ksenia.morozova@example.com",
+      "city": "Грозный",
+      "profession": "Педиатр"
+    },
+    {
+      "id": "37",
+      "name": "Леонид Баширов",
+      "age": 41,
+      "email": "leonid.bashirov@example.com",
+      "city": "Киров",
+      "profession": "Инспектор"
+    },
+    {
+      "id": "38",
+      "name": "Майя Цветкова",
+      "age": 38,
+      "email": "maya.tsvetkova@example.com",
+      "city": "Вологда",
+      "profession": "Парикмахер"
+    },
+    {
+      "id": "39",
+      "name": "Наталья Соколова",
+      "age": 28,
+      "email": "natalya.sokolova@example.com",
+      "city": "Норильск",
+      "profession": "Библиотекарь"
+    },
+    {
+      "id": "40",
+      "name": "Олег Лазарев",
+      "age": 32,
+      "email": "oleg.lazarev@example.com",
+      "city": "Новокузнецк",
+      "profession": "Геолог"
+    },
+    {
+      "id": "41",
+      "name": "Полина Рожкова",
+      "age": 26,
+      "email": "polina.rozhkova@example.com",
+      "city": "Иваново",
+      "profession": "Массажист"
+    },
+    {
+      "id": "42",
+      "name": "Руслан Ермаков",
+      "age": 39,
+      "email": "ruslan.yermakov@example.com",
+      "city": "Сургут",
+      "profession": "Слесарь"
+    },
+    {
+      "id": "43",
+      "name": "Светлана Демидова",
+      "age": 25,
+      "email": "svetlana.demidova@example.com",
+      "city": "Тула",
+      "profession": "Лаборант"
+    },
+    {
+      "id": "44",
+      "name": "Тимур Широков",
+      "age": 27,
+      "email": "timur.shirokov@example.com",
+      "city": "Астрахань",
+      "profession": "Монтажник"
+    },
+    {
+      "id": "45",
+      "name": "Эльвира Кравченко",
+      "age": 30,
+      "email": "elvira.kravchenko@example.com",
+      "city": "Нижнекамск",
+      "profession": "Химик"
+    },
+    {
+      "id": "a79f",
+      "name": "Назаров Михаил Гарьевич",
+      "age": 25,
+      "email": "movkata6@mail.ru",
+      "city": "Краснодар ",
+      "profession": "frontend"
+    },
+    {
+      "id": "da78",
+      "name": "Петр Петров",
+      "age": 30,
+      "email": "petr@example.com",
+      "city": "Казань",
+      "profession": "Программист"
+    },
+    {
+      "id": "3634",
+      "name": "Петр Петров",
+      "age": 30,
+      "email": "petr@example.com",
+      "city": "Казань",
+      "profession": "Программист"
+    }
+  ]
+}
